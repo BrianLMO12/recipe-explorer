@@ -189,7 +189,7 @@
   background: linear-gradient(135deg, var(--accent) 0%, #ff9500 100%);
   color: white;
   border: none;
-  border-radius: 12px;
+  border-radius: 9999px;
   font-size: 0.95rem;
   font-weight: 600;
   cursor: pointer;

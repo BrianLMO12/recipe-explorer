@@ -161,7 +161,7 @@ a:hover {
   color: var(--color-white);
   padding: 12px 24px;
   border: none;
-  border-radius: 12px;
+  border-radius: 9999px;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -180,7 +180,7 @@ a:hover {
   color: var(--accent);
   padding: 12px 24px;
   border: 2px solid var(--accent);
-  border-radius: 12px;
+  border-radius: 9999px;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.3s ease;

@@ -2,7 +2,7 @@
   background-color: var(--bg-tertiary);
   color: var(--text-primary);
   padding: 0.6rem;
-  border-radius: 12px;
+  border-radius: 9999px;
   display: flex;
   align-items: center;
   justify-content: center;

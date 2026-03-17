@@ -6,7 +6,7 @@
   color: var(--text-secondary);
   padding: 0.5rem;
   border: none;
-  border-radius: 12px;
+  border-radius: 9999px;
   cursor: pointer;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
   gap: 0.5rem;
