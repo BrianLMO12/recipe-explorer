@@ -10,13 +10,6 @@ A beautiful, interactive recipe explorer application where users can search, bro
 **Tech Stack**
 React 18 | Vite | React Router | Framer Motion | Tailwind-less design
 
-**Key Features**
-✨ Modern parallax scrolling throughout  
-🎯 Magnetic cursor-attracting buttons  
-🌙 Dark/Light mode with persistence  
-❤️ Save favorite recipes locally  
-📱 Fully responsive design  
-⚡ Production-ready code
 
 ## Quick Start (30 seconds)
 
